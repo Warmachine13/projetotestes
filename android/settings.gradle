@@ -1,0 +1,3 @@
+rootProject.name = 'novoProject'
+
+include ':app'

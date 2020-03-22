@@ -1,0 +1,63 @@
+{
+    "window.zoomLevel": 0, 
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#000000",
+        "editor.background": "#000000",
+        "editor.foreground": "#ffffff",
+		"editorIndentGuide.background": "#000000",
+		"editorRuler.foreground": "#ff0000",
+        "activityBarBadge.background": "#ff0000",
+        "activityBar.background": "#080808",
+        "activityBar.foreground": "#ffffff",
+        "activityBar.dropBackground": "#ffffff",
+
+        "tab.activeForeground": "#ffffff",
+        "tab.inactiveForeground": "#ffffff",
+        "tab.activeBackground": "#000",
+        "tab.inactiveBackground": "#0e0d0d",
+        "tab.hoverBackground": "#0000",
+        
+        "sideBarTitle.foreground": "#ffffff",
+        "menu.background": "#000",
+        "sideBar.background": "#000000",
+        "scrollbarSlider.background": "#161616",
+        
+        "editorGroupHeader.tabsBackground":"#141414",
+        
+        "statusBar.background": "#111111",
+        "statusBar.foreground": "#ffffff",
+        "input.background": "#1b1b1b",
+        "input.foreground": "#fff"
+    },
+    "colorize.languages": [
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "postcss",
+        "sss",
+        "stylus",
+        "xml",
+        "svg",
+        "javascript"
+    ],
+   
+      "colorize.colorized_colors": [
+        "HEXA",
+        "BROWSERS_COLORS",
+        "RGB",
+        "HSL"
+      ],
+      "colorize.include": [
+          ".js"
+      ],
+      "colorize.colorized_variables": [
+          "CSS",
+          "LESS",
+          "SASS",
+          "STYLUS"
+    ],
+    "workbench.iconTheme": "material-icon-theme"
+    
+    
+}
